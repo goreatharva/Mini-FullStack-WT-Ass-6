@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# Problem Statement
+Design and develop a responsive website to prepare one semester result of VIT students using REACT, Django/Springboot/Node JS/ PHP and MySQL/ MongoDB/Oracle. Take any four subjects with MSE Marks (30%) ESE Marks (70%).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
